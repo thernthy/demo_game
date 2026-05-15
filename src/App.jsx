@@ -1,9 +1,3 @@
-// App.jsx
-// Simple Fastly WAF Booth Game
-// Stack:
-// - React
-// - TailwindCSS
-// - Framer Motion
 
 import { useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
